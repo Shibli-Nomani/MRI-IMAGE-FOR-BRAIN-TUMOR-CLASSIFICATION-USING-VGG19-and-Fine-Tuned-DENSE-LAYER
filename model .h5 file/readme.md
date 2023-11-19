@@ -1,3 +1,9 @@
+# 🎩 How to Download .h5 file from KAGGLE
+
+```
+from IPython.display import FileLink
+FileLink(r'outputname.h5')
+```
 
 # 😂 SUMMARY 
 
