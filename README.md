@@ -49,3 +49,10 @@ Upon evaluating the model's performance on test images, it achieves an accuracy 
 🎉 Overall, the model demonstrates performance across training, validation, and test datasets, showcasing its high accuracy and minimal loss. However, future improvements could involve exploring different architectures or hyperparameter tuning to potentially extract more intricate features or improve computational efficiency, aiming for even greater performance.
 
 "Thrilled to share the incredible performance of my model! With a staggering accuracy of [99.6947%], it showcases exceptional learning prowess. 🚀 Curious minds, what do you think? Your insights could fuel its journey to even greater heights! #AI #MachineLearning #FeedbackWelcome" 🌟✨
+
+
+## Authors
+
+- [@LinkedIn Khan MD Shibli Nomani](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/)
+
+
